@@ -7,16 +7,28 @@ body {
 }
 
 h1 {
-  color: #575F7D;
+  color: #408E91;
   font-size: 32px;
   font-weight: 900;
 }
-h2 { 
-  color: #7ECE90;
+
+h2 {
+  color: white;
+  font-size: 10px;
+}
+
+h3 { 
+  color: #E49393;
   font-size: 20px;
   font-weight: lighter;
-  font-weight: 500;
+  font-weight: 700;
 }
+
+img {
+  width: 100px;
+  border-radius: 40%;
+}
+
 a {
   color: #6B71E1;
   text-decoration: none;
@@ -27,11 +39,6 @@ a {
 
 a:hover {
   color: brown;
-}
-
-img {
-  width: 100px;
-  border-radius: 50%;
 }
 
 ul {
@@ -76,7 +83,7 @@ i:hover {
 
 .card-white {
   background-color: white;
-  border-radius: 100px;
+  border-radius: 90px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   padding: 35px;
   margin: 35px auto;
@@ -84,10 +91,10 @@ i:hover {
 }
 
 .btn-blue {
-  background-color: #184649;
+  background-color: #245953;
   color: white;
   padding: 15px 20px;
-  border-radius: 5px;
+  border-radius: 25px;
 }
 
 .btn-blue:hover {
