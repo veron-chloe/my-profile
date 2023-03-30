@@ -85,14 +85,14 @@ i:hover {
   text-align: center;
 }
 
-.btn-blue {
+.btn {
   background-color: #245953;
   color: white;
   padding: 15px 20px;
   border-radius: 25px;
 }
 
-.btn-blue:hover {
+.btn:hover {
   background-color: rgb(100, 100, 100);
   color: white;
 }
